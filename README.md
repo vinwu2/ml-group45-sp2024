@@ -28,3 +28,10 @@ merged_home_games_teams2018.csv: Csv file of dataset of home vs away games from 
 sportsref_download.xls:
 
 teams.csv: Csv file containing each NBA team ID with their respective team nickname.
+
+<img width="1272" alt="Screenshot 2024-04-02 at 10 48 00 PM" src="https://github.com/vinwu2/ml-group45-sp2024/assets/161073357/4cabbadc-39c7-4caa-9469-d30dddf93586">
+
+<img width="674" alt="Screenshot 2024-04-02 at 10 48 39 PM" src="https://github.com/vinwu2/ml-group45-sp2024/assets/161073357/17c89ec1-d4c6-471f-bc48-8c6b6c57ed77">
+
+
+
