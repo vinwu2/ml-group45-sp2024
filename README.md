@@ -27,8 +27,18 @@ merged_home_games_teams.csv: Csv file of dataset of home vs away games from 2004
 
 merged_home_games_teams2018.csv: Csv file of dataset of home vs away games from 2004-2022 merged with dataset of team nicknames. Presents the home teams team name with the games.csv dataset, but removes all data from before 2018.
 
+1610612737Data.csv - 1610612766Data.csv: Each NBA teams stats. Games.csv but for each nba team.
+
 sportsref_download.xls:
 
 teams.csv: Csv file containing each NBA team ID with their respective team nickname.
+
+RandomForest.py: Random Forest Model Implementation
+
+Confusion and Density.py: Confusion and density graph code
+HeatMap.py: Heat map code
+ML Project with SVM and feature importance.ipynb: SVM code but with feature importance graph
+ML Project with SVM.ipynb: SVM implementation
+ModelAccuracy.py: Model accuracy graphing code
 
 
